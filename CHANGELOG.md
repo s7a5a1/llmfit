@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.13](https://github.com/AlexsJones/llmfit/compare/v1.1.12...v1.1.13) (2026-08-28)
+
+
+### Bug Fixes
+
+* **models:** keep architecture metadata when config.json fetch misses ([#963](https://github.com/AlexsJones/llmfit/issues/963)) ([ec652ba](https://github.com/AlexsJones/llmfit/commit/ec652ba1c32c5092cbbc0b6b1bb63fcdbe9ee90d))
+* **providers:** unify the two MLX quant-suffix strippers ([#895](https://github.com/AlexsJones/llmfit/issues/895)) ([02c2fa5](https://github.com/AlexsJones/llmfit/commit/02c2fa56691883320ac812a9f0c9975c6c955fc1)), closes [#869](https://github.com/AlexsJones/llmfit/issues/869)
+* **share:** explain a refused write to the user's own fork ([#865](https://github.com/AlexsJones/llmfit/issues/865)) ([d6bfa10](https://github.com/AlexsJones/llmfit/commit/d6bfa1094f6e1cc83749c408ec5c490c9935d709)), closes [#862](https://github.com/AlexsJones/llmfit/issues/862)
+
 ## [1.1.12](https://github.com/AlexsJones/llmfit/compare/v1.1.11...v1.1.12) (2026-08-27)
 
 
